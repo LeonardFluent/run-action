@@ -26,3 +26,5 @@ jobs:
       - name: execute the task
         run: java -jar dailyCheckIn-1.0.0.jar
         
+      - name: execute the task2
+        run: java -jar dailyCheckIn-1.0.0-lz.jar
